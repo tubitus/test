@@ -1,0 +1,35 @@
+ul{
+    display: flex;
+    padding-bottom: 60px;
+    background-color: rgb(0, 0, 255);
+    justify-content: right;
+}
+
+
+h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    color: aliceblue;
+}
+
+main{
+    background-color: blue;
+    margin: 10px 350px;
+}
+
+.text2{
+    display: flex;
+    justify-content: space-around;
+    background-color: aquamarine;
+    margin: 50px;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 40px 2px;
+}
+.pata{
+    display: flex;
+    background-color: rgb(132, 0, 255);
+    justify-content: start;
+    margin: 20px 0px;
+}
